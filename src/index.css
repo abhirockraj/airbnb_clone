@@ -1,0 +1,82 @@
+.logo_airbnb{
+  position: absolute;
+left: 7%;
+right: 0.01%;
+top: 30%;
+bottom: 0%;
+
+background: #FF5A5F;
+}
+.logo{
+  position: absolute;
+width: 550px;
+height: 70px;
+left: 0px;
+top: 0px;
+
+background: #E5E5E5;
+box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+}
+body{
+  background: #E5E5E5;
+}
+.hero{
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+width: 395.91px;
+height: 232px;
+left: 37px;
+top: 76px;
+}
+.h1{
+  position: absolute;
+width: 347px;
+height: 40px;
+left: 37px;
+top: 360px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 110%;
+/* identical to box height, or 40px */
+
+
+color: #000000;
+}
+.h3{
+  position: absolute;
+width: 320px;
+height: 56px;
+left: 37px;
+top: 416px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 110%;
+color: #222222;
+
+}
+.logo_grp{
+  position: absolute;
+width: 395.91px;
+height: 232px;
+left: 37px;
+top: 96px;
+}
+
+.group_card{
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+width: 176px;
+height: 235px;
+left: 37px;
+top: 600px
+
+}
